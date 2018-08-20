@@ -1,0 +1,193 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EC575DFC-FD17-4C62-924A-C5947C7295DC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "BB494B7F-0A74-4F06-BF7C-96981603AA3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86668BBD-4538-4A79-945C-5AC988CB7F2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83F51E89-F852-46E3-B8D0-046F90AFC953",
+    "height": 1024,
+    "width": 1440,
+    "x": 250,
+    "y": 4728
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C445DAB1-AB16-4ECD-9BE1-A601B61F86AE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "22228E86-4E75-4386-B568-F6C62F6E60C0"
+    },
+    {
+      "class": "text",
+      "id": "A2493075-C7EA-4DCC-90B9-D83060ADE877"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F61B4A5-A76D-4FC6-A44E-4E41C731D363"
+    },
+    {
+      "class": "text",
+      "id": "0442812B-FBC7-4B28-8D5D-F3C4DB1B3236"
+    },
+    {
+      "class": "group",
+      "id": "90234A0D-8DB8-4F8A-8128-6AD14184737D"
+    },
+    {
+      "class": "text",
+      "id": "C4644C53-881C-4432-853D-F4359A8A31F8"
+    },
+    {
+      "class": "text",
+      "id": "8B64C96C-F344-4C4E-A8F0-73C4C6752E0C"
+    },
+    {
+      "class": "text",
+      "id": "014D061A-8826-48A5-BBA8-5C94A5EAA46A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E277BD80-11AD-468B-80B3-BADF073FD477"
+    },
+    {
+      "class": "text",
+      "id": "2A5DF58D-883E-460C-94A2-8CE6B8746FB5"
+    },
+    {
+      "class": "text",
+      "id": "11D380F4-4338-4828-8BB8-E7F05E84F87D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CF5A8F5-9BD7-4FE1-B502-A676C40033D8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D1898AB-DC10-4E16-AC4C-4AE7613D6F7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2A230D9-C162-49B4-96E7-F328D3BEFFEB"
+    },
+    {
+      "class": "text",
+      "id": "808A7122-3280-4E84-9ED7-3DE41C04408A"
+    },
+    {
+      "class": "text",
+      "id": "B164A845-9A4D-411D-99D8-AC755E886A86"
+    },
+    {
+      "class": "text",
+      "id": "66F33660-0C70-4AB2-95B2-884338EE8692"
+    },
+    {
+      "class": "text",
+      "id": "D37CC58F-3BE2-464A-829B-F06434EA8DB7"
+    },
+    {
+      "class": "text",
+      "id": "DF315789-9CD1-4D59-A288-0C63A443A6F0"
+    },
+    {
+      "class": "text",
+      "id": "83DBA2A4-309F-4392-A7AA-AB9792789043"
+    },
+    {
+      "class": "text",
+      "id": "27AF396C-D093-44F1-B55F-899F27319B6D"
+    },
+    {
+      "class": "text",
+      "id": "A455A12D-2892-4520-8309-B4D69F0C80C9"
+    },
+    {
+      "class": "text",
+      "id": "FF64F315-0370-473B-A255-E6F2F3B12787"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5550757F-FF80-4658-ADD1-A1D7550114D3"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "B0AAE5A7-A1D4-4FC5-A97D-362B1A4B16DB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Registro Participantes Copy 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A080880-A36D-4EF4-8BBE-568434F5F70E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8653D7D-BB52-4D65-BA27-7583A257E95F",
+    "guides": [
+    ]
+  }
+}
