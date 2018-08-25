@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 165,
+        "length": 119,
         "location": 0
       }
     ],
-    "string": "Enviamos la información de pago al mail de contacto.\nEn cuanto tengas tu comprobante ingresa a tu cuenta y  adjunta el voucher en la sección   “Adjuntar comprobante”"
+    "string": "Plantilla “usted a quedado registrado a nuestro sistema de capacitación”\n\n-Usuario y password.\n*Ver correo de registro."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F4FFA3AB-0924-4A0C-B8B4-16CDD88746A0",
-    "height": 72.10000000149012,
+    "height": 96.30000000447035,
     "width": 620,
     "x": 410,
     "y": 416
   },
-  "glyphBounds": "{{0, 5}, {555, 67}}",
+  "glyphBounds": "{{0, 5}, {605, 91}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Enviamos la informac",
+  "name": "Plantilla “usted a q",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

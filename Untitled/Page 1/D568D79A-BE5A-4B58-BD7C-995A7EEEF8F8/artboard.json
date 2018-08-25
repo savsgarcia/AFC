@@ -27,7 +27,7 @@
     "height": 1024,
     "width": 1440,
     "x": 250,
-    "y": 5859
+    "y": 6542
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -84,7 +84,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 240,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

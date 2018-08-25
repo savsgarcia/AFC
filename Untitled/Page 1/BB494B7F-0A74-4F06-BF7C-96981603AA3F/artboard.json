@@ -27,7 +27,7 @@
     "height": 1024,
     "width": 1440,
     "x": 250,
-    "y": 4728
+    "y": 5159
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -114,6 +114,18 @@
     },
     {
       "class": "text",
+      "id": "C543E285-C4D7-488E-A7AD-A6382D272844"
+    },
+    {
+      "class": "text",
+      "id": "0585D3BF-B624-43F0-B14B-B9AC067EEF28"
+    },
+    {
+      "class": "text",
+      "id": "C9D5024B-29C0-4C76-84B9-3FCB1A62B5EF"
+    },
+    {
+      "class": "text",
       "id": "66F33660-0C70-4AB2-95B2-884338EE8692"
     },
     {
@@ -156,7 +168,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 240,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

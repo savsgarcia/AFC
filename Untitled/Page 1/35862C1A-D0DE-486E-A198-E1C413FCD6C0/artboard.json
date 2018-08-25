@@ -27,7 +27,7 @@
     "height": 1024,
     "width": 1440,
     "x": 250,
-    "y": 3597
+    "y": 3776
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -199,6 +199,10 @@
     {
       "class": "shapeGroup",
       "id": "D85D7AFC-AB16-4DF7-8019-46FFDC779C69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D23F6F65-ECE6-40D9-AB3C-1F8CA2EC43C2"
     }
   ],
   "layout": {
@@ -212,7 +216,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 240,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 16,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Apellido materno"
+    "string": "Apellido materno*"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "E75D7538-2571-4B00-978B-0786010B69E9",
     "height": 22,
-    "width": 130,
+    "width": 138,
     "x": 351,
     "y": 444
   },
-  "glyphBounds": "{{0, 4}, {129, 17}}",
+  "glyphBounds": "{{0, 4}, {138, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Apellido materno",
+  "name": "Apellido materno*",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

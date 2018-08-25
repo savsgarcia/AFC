@@ -110,7 +110,15 @@
     },
     {
       "class": "text",
-      "id": "8CB81611-3501-47C7-B075-0CA717BB3794"
+      "id": "B319D885-FBEF-479E-85F0-87A6687E6CC5"
+    },
+    {
+      "class": "text",
+      "id": "B890CE38-159A-4320-8DD5-4ACCD7B6028E"
+    },
+    {
+      "class": "text",
+      "id": "894EA925-81B8-477A-9C4A-7DA2815DF6D0"
     },
     {
       "class": "text",
@@ -207,7 +215,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 240,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960
