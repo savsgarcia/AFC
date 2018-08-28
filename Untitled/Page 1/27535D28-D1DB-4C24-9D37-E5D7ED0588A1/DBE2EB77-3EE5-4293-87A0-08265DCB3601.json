@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DBE2EB77-3EE5-4293-87A0-08265DCB3601",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC6ECA91-556D-41E3-9ED2-4B7A9CA13247",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "384677BE-CDA7-4EC5-B783-2136AAEBBE4B",
+    "height": 40,
+    "width": 225,
+    "x": 457,
+    "y": 600
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/Card/BodyText",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8D745A3-D739-4177-B19D-9FDC95181664",
+      "overrideName": "97BA4C01-9AE2-4C95-8D29-3EA00BE7DF85_stringValue",
+      "value": "Vas a inscribir a una o un\ngrupo de personas."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4A7B84B4-2381-417F-B91A-A7E1B7E0ECC2",
+      "opacity": 0.5
+    },
+    "do_objectID": "21D4958C-CFFF-4285-80E7-53F134B3E104",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D0D17C84-D246-4523-87DA-CC7BAD4CFB2F",
+  "verticalSpacing": 0
+}

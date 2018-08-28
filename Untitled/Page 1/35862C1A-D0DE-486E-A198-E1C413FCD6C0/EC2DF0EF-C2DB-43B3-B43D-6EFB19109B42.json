@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4117647058823529,
-            "red": 0.396078431372549
+            "blue": 0.5333333333333333,
+            "green": 0.4862745098039216,
+            "red": 0.4352941176470588
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 83,
+        "length": 66,
         "location": 0
       }
     ],
-    "string": "Con el envío de este formato, acepto la “Política de privacidad”. envío de factura*"
+    "string": "Con el envío de este formato, acepto la “Política de privacidad”. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "ADB84260-0108-4D7B-94B2-DEFEF5F8CEAD",
     "height": 22,
-    "width": 602,
-    "x": 348,
-    "y": 724
+    "width": 473,
+    "x": 598,
+    "y": 736
   },
-  "glyphBounds": "{{0, 4}, {601, 17}}",
+  "glyphBounds": "{{0, 4}, {468, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -85,9 +85,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4117647058823529,
-          "red": 0.396078431372549
+          "blue": 0.5333333333333333,
+          "green": 0.4862745098039216,
+          "red": 0.4352941176470588
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

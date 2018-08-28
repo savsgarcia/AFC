@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FF574C3F-29EF-4C58-8D7E-9B17B9A5C672",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DC5DC37-BCDE-43F8-881C-D1CC523DCDDF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0144A4A-B810-4AB1-A359-819FA8CDF6DE",
+    "height": 80,
+    "width": 136,
+    "x": 648,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo/acfe",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "510B708B-8829-4D27-B4F1-E9DCDDCCCF8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5CBEFAF5-FBCB-45A6-8109-7A04B866BC2B",
+  "verticalSpacing": 0
+}

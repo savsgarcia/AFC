@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6D10EF36-6947-4C82-8E18-BB3B43511DF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AF4DAA2-523A-449D-BA70-F32E0F73BE43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C0D33C9-5DDB-4D52-85AF-C32FB7898BC5",
+    "height": 16,
+    "width": 16,
+    "x": 1144,
+    "y": 376
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Iocons/Close",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C08CBF9-367C-44E1-9118-157B5957AEE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E39D822F-3581-4BA1-962A-7067C837DAE4",
+  "verticalSpacing": 0
+}

@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Registrarme como contacto"
+    "string": "Registrar como contacto"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "3A112BF3-F9E1-4D3E-813F-599BF13C941F",
     "height": 22,
-    "width": 221,
-    "x": 20,
-    "y": 16
+    "width": 200,
+    "x": 30,
+    "y": 9
   },
-  "glyphBounds": "{{1, 4}, {219, 17}}",
+  "glyphBounds": "{{1, 4}, {194, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Registrarme como con",
+  "name": "Registrar como conta",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

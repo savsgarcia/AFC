@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B3CA0A58-F223-4DED-AD68-B3D14FF487EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26474BB0-9521-487A-9289-22ED4C2BBF07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8333D33A-6DB9-47AF-8E13-ABFFCBA1E15B",
+    "height": 24,
+    "width": 99,
+    "x": 399,
+    "y": 152
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/Card/Card-title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "415B02B9-3A15-483C-ABE5-C293DE1FA7A6",
+      "overrideName": "431EC6B4-312A-4812-B778-93144FD6EF6A_stringValue",
+      "value": "Participante"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8706795-3D32-4257-A718-CD855F38CFE9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A847489-E1DA-4299-8047-1B20D99755D1",
+  "verticalSpacing": 0
+}

@@ -16,6 +16,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "OpenSans-SemiBold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 0.1000000014901161
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 6,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4666666666666667,
+            "green": 0.4117647058823529,
+            "red": 0.396078431372549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "OpenSans-Regular",
               "size": 16
             }
@@ -29,11 +58,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
-        "location": 0
+        "length": 19,
+        "location": 6
       }
     ],
-    "string": "Email: facturas@mail.com"
+    "string": "Email: \nfacturas@mail.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +82,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7393B66D-A626-4F01-8343-F94922FBA6CE",
-    "height": 22,
-    "width": 193,
-    "x": 0,
-    "y": 177
+    "height": 44.10000000149012,
+    "width": 195,
+    "x": 1,
+    "y": 242
   },
-  "glyphBounds": "{{1, 4}, {191, 15}}",
+  "glyphBounds": "{{0, 4}, {142, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -92,7 +121,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Regular",
+            "name": "OpenSans-SemiBold",
             "size": 16
           }
         },
@@ -109,5 +138,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

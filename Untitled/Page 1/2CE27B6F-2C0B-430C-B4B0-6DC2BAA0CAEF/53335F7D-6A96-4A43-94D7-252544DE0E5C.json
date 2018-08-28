@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "53335F7D-6A96-4A43-94D7-252544DE0E5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84A66E81-5C99-4103-A85B-4604F12FB502",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F890702C-5D1B-4799-8FFC-BC45817FAC0D",
+    "height": 224,
+    "width": 780,
+    "x": 330,
+    "y": 216
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/CardContainer Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33498368-D989-4C6E-88A0-BD29DB444837",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DF178BD6-44E3-449F-A837-6D8D50953E4A",
+  "verticalSpacing": 0
+}

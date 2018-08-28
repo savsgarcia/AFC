@@ -16,6 +16,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "OpenSans-SemiBold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 0.1000000014901161
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 10,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4666666666666667,
+            "green": 0.4117647058823529,
+            "red": 0.396078431372549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "OpenSans-Regular",
               "size": 16
             }
@@ -29,11 +58,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 65,
-        "location": 0
+        "length": 56,
+        "location": 10
       }
     ],
-    "string": "Direción: Calle Flores #32 INT- 3\nAzacapotzalco 03333 CDMX\nMÉXICO"
+    "string": "Direción: \nCalle Flores #32 INT- 3\nAzacapotzalco 03333 CDMX\nMÉXICO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +82,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0ED46534-6671-4F05-A50E-46B635089364",
-    "height": 67,
-    "width": 237,
-    "x": 0,
-    "y": 66
+    "height": 96,
+    "width": 240,
+    "x": 1,
+    "y": 97
   },
-  "glyphBounds": "{{0, 4}, {236, 58}}",
+  "glyphBounds": "{{0, 4}, {206, 80}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -92,7 +121,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Regular",
+            "name": "OpenSans-SemiBold",
             "size": 16
           }
         },
@@ -109,5 +138,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

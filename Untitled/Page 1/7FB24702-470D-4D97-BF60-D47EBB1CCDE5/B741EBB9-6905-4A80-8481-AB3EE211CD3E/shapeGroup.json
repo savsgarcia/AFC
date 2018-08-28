@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 390,
-    "x": 330,
-    "y": 264
+    "height": 40,
+    "width": 384,
+    "x": 328,
+    "y": 296
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -53,7 +53,7 @@
           "red": 0.9018388605442177
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }

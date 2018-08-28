@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D53D40E9-9626-4BAC-A3C2-C8F545FBC089",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EBB88D9-42E7-4DAB-9BAC-A4CE11717585",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61640D7E-0071-4B23-A9C3-628BA9667A08",
+    "height": 14,
+    "width": 8,
+    "x": 1135,
+    "y": 969
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "048770AA-5C3F-4E44-931B-208EEEC6227E"
+    }
+  ],
+  "name": "chevron",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "406C121A-795B-4265-9A25-8566C60BE24A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

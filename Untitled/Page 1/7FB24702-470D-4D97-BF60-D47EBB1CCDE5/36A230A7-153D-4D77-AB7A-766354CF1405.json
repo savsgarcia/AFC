@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "36A230A7-153D-4D77-AB7A-766354CF1405",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E7F616E-839D-4D2C-B53B-DDEA0A5FBEDF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E34B1AA7-1A88-43DA-89F0-C5F80804014D",
+    "height": 40,
+    "width": 184,
+    "x": 928,
+    "y": 777
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Form/Tabs Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A147D2CB-5368-4B0E-85EB-56E802A66546",
+      "overrideName": "5A0FCD7B-8848-4B83-B368-5F66C7B0A837/1FB92ECB-D668-4F22-826D-AA2F0624B10F_stringValue",
+      "value": "Otro"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58644F59-AF30-4FEC-87E0-10274BE5D0F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9986EE09-783E-471B-97CC-0EEB46350C71",
+  "verticalSpacing": 0
+}

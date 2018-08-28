@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A39C2B80-E3EE-48F5-BD1B-72A8D4E5F96A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1F682A0-1DB4-4DEB-9639-11189C334EF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D7A977C-F347-4268-B1CB-57D2A901905E",
+    "height": 69,
+    "width": 80,
+    "x": 16,
+    "y": 22
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4CA9444B-848D-4408-9874-AEEDC9A2F42B"
+    }
+  ],
+  "name": "school",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "858754B3-0387-4739-9759-CF7E5ADCC955",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

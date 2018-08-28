@@ -9,31 +9,33 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4117647058823529,
-            "red": 0.396078431372549
+            "blue": 0.1723426043483504,
+            "green": 0.6827434098639455,
+            "red": 0.2683894950601846
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 18
+              "name": "OpenSans-SemiBold",
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 0.1000000014901161
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Total y cuenta"
+    "string": "Total: $6,750.00 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "83896868-9F4A-4C05-B04E-A1DC339094A3",
     "height": 24,
-    "width": 128,
-    "x": 515,
-    "y": 746
+    "width": 125,
+    "x": 491,
+    "y": 696
   },
-  "glyphBounds": "{{0, 5}, {127, 19}}",
+  "glyphBounds": "{{4, 5}, {120, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Total y cuenta",
+  "name": "Total: $6,750.00",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -85,22 +87,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4117647058823529,
-          "red": 0.396078431372549
+          "blue": 0.1723426043483504,
+          "green": 0.6827434098639455,
+          "red": 0.2683894950601846
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 18
+            "name": "OpenSans-SemiBold",
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 0.1000000014901161
         },
         "textStyleVerticalAlignmentKey": 0

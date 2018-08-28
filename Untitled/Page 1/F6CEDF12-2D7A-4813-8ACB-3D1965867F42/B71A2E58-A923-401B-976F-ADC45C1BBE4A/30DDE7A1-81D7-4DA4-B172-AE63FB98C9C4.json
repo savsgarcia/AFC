@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "30DDE7A1-81D7-4DA4-B172-AE63FB98C9C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FDBC42F-FFC3-40F3-AD7D-0A1C65F5E2A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA4A17D8-89CF-4BEE-BD6F-E0344384FCB2",
+    "height": 40,
+    "width": 184,
+    "x": 328,
+    "y": 840
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Form/Tabs Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2E249E3-4FAC-4E2C-862B-2BAFB39B97D4",
+      "overrideName": "5A0FCD7B-8848-4B83-B368-5F66C7B0A837/1FB92ECB-D668-4F22-826D-AA2F0624B10F_stringValue",
+      "value": "Llamada telefónica"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "174A086E-DAB6-4BC2-A2BD-952C8552EF21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9986EE09-783E-471B-97CC-0EEB46350C71",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C5E578EE-0B09-469F-99B0-C8A819669EB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7454CA28-59AC-4344-B556-CA100376B70F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C214B1E4-5426-4DC9-88BA-B9073D9645B6",
+    "height": 40,
+    "width": 184,
+    "x": 728,
+    "y": 777
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Form/Tabs Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81885932-D3AC-4DAC-AE85-5CF18EC45DA1",
+      "overrideName": "5A0FCD7B-8848-4B83-B368-5F66C7B0A837/1FB92ECB-D668-4F22-826D-AA2F0624B10F_stringValue",
+      "value": "Medio impreso"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F2BA436-478A-4B23-B1F2-97E57366BB41",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9986EE09-783E-471B-97CC-0EEB46350C71",
+  "verticalSpacing": 0
+}

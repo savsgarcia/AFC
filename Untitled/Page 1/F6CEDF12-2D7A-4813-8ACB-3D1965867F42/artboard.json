@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "A6C1C7ED-84F6-417D-AA9F-886BE87F9FE1",
+    "green": 0.9568627450980391,
+    "red": 0.9372549019607843
+  },
+  "booleanOperation": -1,
+  "do_objectID": "F6CEDF12-2D7A-4813-8ACB-3D1965867F42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE2E8116-0A34-462C-953A-31194E3B411D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53C5B397-E5B3-416B-8D8F-4783B6A326CD",
+    "height": 1024,
+    "width": 1440,
+    "x": 7965,
+    "y": -155
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "700E6822-76BF-4401-B2B6-7FB1CF81DADF",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1612F318-53BB-453D-9A52-3850DB99EE51",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B71A2E58-A923-401B-976F-ADC45C1BBE4A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "907D8315-070F-4E25-AFD3-27CDAD0E5990"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0FAA94A0-F35D-4EE8-923F-74F2A2ACCE91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EFA66A4-9BC7-4783-BBF6-3257EB104559"
+    },
+    {
+      "class": "text",
+      "id": "BB1843A0-E9FD-4281-9F9B-D303D7D0244A"
+    },
+    {
+      "class": "text",
+      "id": "FA79F986-E7B3-41D3-A0E6-CDC782407B8B"
+    },
+    {
+      "class": "text",
+      "id": "3238AEAA-50AA-4EDA-967F-F2FCAA35855F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "C5504E18-268E-4087-AE50-2C37CA9B7FE2",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Registro Contacto Modal",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E340DFD-5E6B-4F5B-A7AD-061616C7A7B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "647A2EBE-2BAA-4516-A99E-352186AE031C",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "4AF297F5-6912-47D5-B831-F12A9F209CD8",
+    "green": 0.9568627450980391,
+    "red": 0.9372549019607843
+  },
+  "booleanOperation": -1,
+  "do_objectID": "216CC0F2-E03E-4DDE-95FA-E1C892BFE6AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A2EB825-759E-4FC2-9F30-D9FDDCA80C35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9726DC2C-85B2-4422-ABF2-894696A5873E",
+    "height": 1024,
+    "width": 1440,
+    "x": 17205,
+    "y": -155
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "6CDF2365-1EC4-4FF1-AF9E-FD170F653A0F",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FE3401FD-762D-4418-8DC8-5D222FF28729",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "26D60BFC-CB80-4922-B7AE-845C4AE585CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02C9B8E9-B85D-45DA-9116-9A1CD8D50684"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5054C16B-255C-49E3-B4A6-3DD6B9FDF0DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C84297C1-295E-41F1-B27C-B53CE5F5F25D"
+    },
+    {
+      "class": "text",
+      "id": "ECA21755-036C-4022-AAD4-77C5869C4B5F"
+    },
+    {
+      "class": "text",
+      "id": "8422136E-0E7E-4782-9A71-82A3A10F151C"
+    },
+    {
+      "class": "text",
+      "id": "AEC6984D-7DF8-4E10-BCD9-7373CA1D46A4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "8757D828-1B17-4281-9978-149049F1E789",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Registro Participantes Modal",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "029CCCFA-ACF7-4BF0-9241-5F0DAF14F707",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DFD09F8E-345F-45EA-BDD9-E013925C9ED7",
+    "guides": [
+    ]
+  }
+}

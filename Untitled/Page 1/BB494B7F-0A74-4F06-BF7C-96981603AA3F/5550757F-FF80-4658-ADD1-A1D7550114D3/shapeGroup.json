@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 3,
-    "width": 304,
-    "x": 332,
-    "y": 565
+    "width": 274,
+    "x": 343,
+    "y": 495
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -56,9 +56,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.9150722789115646,
+          "green": 0.8806650200454957,
+          "red": 0.8581330039808694
         },
         "fillType": 0,
         "isEnabled": true,

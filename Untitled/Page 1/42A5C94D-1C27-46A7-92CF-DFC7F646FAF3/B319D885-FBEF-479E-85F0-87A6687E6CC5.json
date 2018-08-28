@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 16
+              "size": 15
             }
           },
           "kerning": 0,
@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "¿Cuentas con afiliación vigente a ACFE capitulo México?*"
+    "string": "¿Cuentas con afiliación vigente a ACFE capítulo México?*"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A2AA1CBF-E522-452F-8B1D-5B00EE3DB8CC",
-    "height": 22,
-    "width": 420,
-    "x": 351,
-    "y": 781
+    "height": 40,
+    "width": 304,
+    "x": 256,
+    "y": 784
   },
-  "glyphBounds": "{{0, 4}, {419, 17}}",
+  "glyphBounds": "{{0, 4}, {265, 36}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -93,7 +93,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 16
+            "size": 15
           }
         },
         "kerning": 0,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

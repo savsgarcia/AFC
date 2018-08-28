@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9AD07910-53E2-4FAF-96A8-AFB689231F0C",
-    "height": 44,
-    "width": 137,
-    "x": 833,
-    "y": 394
+    "height": 40,
+    "width": 136,
+    "x": 832,
+    "y": 416
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -55,7 +55,7 @@
           "red": 0.9018388605442177
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }

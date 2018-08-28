@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2F521EF0-1B95-4424-9C94-AD93D263C71B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "174E9F14-30BE-4BE4-970B-FD130D981982",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C48FB5AC-E39A-4F9B-9010-3E5071296D81",
+    "height": 16,
+    "width": 632,
+    "x": 404,
+    "y": 192
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/Card/Help",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67903E03-4707-4B2F-AB16-924FB1E28412",
+      "overrideName": "95EABA4F-12A3-4329-A017-8D1EB327802D_stringValue",
+      "value": "El nombre del participante será el mismo que aparecerá en la constancia y en el gafete."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8A427CC-EEE0-49E1-8739-B0D0ADB04F60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "77A396CC-8B75-4580-AA9B-0EE728CBE4C6",
+  "verticalSpacing": 0
+}

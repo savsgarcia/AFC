@@ -16,6 +16,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "OpenSans-SemiBold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 0.1000000014901161
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 14,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4666666666666667,
+            "green": 0.4117647058823529,
+            "red": 0.396078431372549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "OpenSans-Regular",
               "size": 16
             }
@@ -29,11 +58,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 31,
-        "location": 0
+        "length": 18,
+        "location": 14
       }
     ],
-    "string": "Razón social: BUFET JURIDICO SA"
+    "string": "Razón social: \nBUFET JURIDICO SA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +82,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3075EFB5-492B-4D7E-A90C-FA5F45A345B6",
-    "height": 22,
-    "width": 245,
+    "height": 49,
+    "width": 248,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {244, 17}}",
+  "glyphBounds": "{{1, 4}, {144, 39}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -92,7 +121,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Regular",
+            "name": "OpenSans-SemiBold",
             "size": 16
           }
         },
@@ -109,5 +138,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

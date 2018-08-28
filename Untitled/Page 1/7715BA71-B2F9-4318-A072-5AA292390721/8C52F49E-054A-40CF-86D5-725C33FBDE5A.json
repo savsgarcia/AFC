@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8C52F49E-054A-40CF-86D5-725C33FBDE5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBAA4D2B-489B-4287-BCDC-A2AF0CC4BB42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BCDB8A3-1D56-488F-8158-703E495AE151",
+    "height": 40,
+    "width": 184,
+    "x": 728,
+    "y": 726
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Form/Tabs Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "391DEE9D-00AB-4F56-8A29-C2096D071B07",
+      "overrideName": "5A0FCD7B-8848-4B83-B368-5F66C7B0A837/1FB92ECB-D668-4F22-826D-AA2F0624B10F_stringValue",
+      "value": "Sitio web"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04F08B7D-5566-48BD-81D8-664FA15931E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9986EE09-783E-471B-97CC-0EEB46350C71",
+  "verticalSpacing": 0
+}

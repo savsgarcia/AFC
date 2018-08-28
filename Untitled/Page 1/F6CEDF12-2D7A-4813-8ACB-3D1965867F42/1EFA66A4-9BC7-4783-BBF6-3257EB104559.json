@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1EFA66A4-9BC7-4783-BBF6-3257EB104559",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DB93C10-FD31-4B44-AF05-5C6DC29D7A41",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5E76C5A-0B12-478B-B853-470A66844D5A",
+    "height": 100,
+    "width": 104,
+    "x": 655,
+    "y": 382
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Mail",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9D413B1-49EB-4A92-988F-7BBEC77C52B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "764DD556-8FE7-4C53-A891-0FF97020D573",
+  "verticalSpacing": 0
+}

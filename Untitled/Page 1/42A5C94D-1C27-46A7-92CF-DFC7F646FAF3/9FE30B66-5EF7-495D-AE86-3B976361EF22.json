@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4117647058823529,
-            "red": 0.396078431372549
+            "blue": 0.396078431372549,
+            "green": 0.2549019607843137,
+            "red": 0.1137254901960784
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
+              "name": "OpenSans-SemiBold",
               "size": 16
             }
           },
@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "1- Datos personales"
+    "string": "1- Participante (s)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "A9EE1DCC-252A-4956-B0BF-D96538DDCBE9",
     "height": 22,
-    "width": 157,
-    "x": 455,
-    "y": 218
+    "width": 135,
+    "x": 268,
+    "y": 236
   },
-  "glyphBounds": "{{0, 4}, {156, 17}}",
+  "glyphBounds": "{{1, 5}, {133, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "1- Datos personales",
+  "name": "1- Participante (s)",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -85,14 +85,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4117647058823529,
-          "red": 0.396078431372549
+          "blue": 0.396078431372549,
+          "green": 0.2549019607843137,
+          "red": 0.1137254901960784
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
+            "name": "OpenSans-SemiBold",
             "size": 16
           }
         },

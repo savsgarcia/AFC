@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "2BDF39C9-1681-4B9D-A301-40B55599821B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6713C9C8-E77C-483D-BAE6-2CA7E2BE1407",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DCFCA188-CABE-4DF6-9E66-1BF6767D4252",
+    "height": 24,
+    "width": 96,
+    "x": 976,
+    "y": 304
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2218EF85-E3B0-41CE-B691-B11F2FE5F17E"
+    }
+  ],
+  "name": "Text/Card/Help Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E01215C-D83F-425E-BABB-78A6153C6E52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

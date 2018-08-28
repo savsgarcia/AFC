@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8F046D90-2963-4F9B-AD3F-CD8593BF198F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04361963-4BC1-49CB-9B05-C82456B084AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A49BF5A8-6AD0-4495-96BA-8F26AF7AC52F",
+    "height": 40,
+    "width": 225,
+    "x": 336,
+    "y": 200
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/Card/BodyText Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8D745A3-D739-4177-B19D-9FDC95181664",
+      "overrideName": "97BA4C01-9AE2-4C95-8D29-3EA00BE7DF85_stringValue",
+      "value": "Te inscribiras personalmente"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CE95710-9543-430B-B0C3-5CC53F865B14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D0D17C84-D246-4523-87DA-CC7BAD4CFB2F",
+  "verticalSpacing": 0
+}

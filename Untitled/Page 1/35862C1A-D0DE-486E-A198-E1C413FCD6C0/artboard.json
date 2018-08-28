@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "37AE0ED3-66E3-4B18-9044-DCA1AE08DD96",
-    "green": 1,
-    "red": 1
+    "blue": 0.9647058823529412,
+    "green": 0.9568627450980391,
+    "red": 0.9372549019607843
   },
   "booleanOperation": -1,
   "do_objectID": "35862C1A-D0DE-486E-A198-E1C413FCD6C0",
@@ -26,10 +25,16 @@
     "do_objectID": "1944235A-6CE9-424A-B33A-013E113C2F96",
     "height": 1024,
     "width": 1440,
-    "x": 250,
-    "y": 3776
+    "x": 14125,
+    "y": -155
   },
-  "hasBackgroundColor": false,
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,18 +53,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "1F57AA53-081E-42A2-B3FA-2B16539379FA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C53CCB81-0DC5-4AD1-8276-845561057C19"
-    },
-    {
-      "class": "text",
-      "id": "1C261726-F02F-44B7-8B94-A7D97E7BAA79"
-    },
     {
       "class": "shapeGroup",
       "id": "198422F2-F2F1-40FC-811E-84BD0C652A62"
@@ -91,6 +84,10 @@
     {
       "class": "shapeGroup",
       "id": "9D021AE0-8D28-4714-8EF9-527A31B9079A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46A10EC7-B775-47A3-A091-3CB1B78D7C2D"
     },
     {
       "class": "shapeGroup",
@@ -126,6 +123,18 @@
     },
     {
       "class": "text",
+      "id": "B9EF4156-3739-4EF7-9B95-1C2E17B08975"
+    },
+    {
+      "class": "text",
+      "id": "A2C4CD80-3D2F-488B-AB77-FFC37C63383A"
+    },
+    {
+      "class": "text",
+      "id": "14B499CD-11AE-4715-95D0-6CA05E0F10C7"
+    },
+    {
+      "class": "text",
       "id": "31819C0C-EB2F-4071-88E2-6FD8E5C51942"
     },
     {
@@ -139,6 +148,10 @@
     {
       "class": "text",
       "id": "411B48EA-3507-425B-946D-F1F04EC1B634"
+    },
+    {
+      "class": "text",
+      "id": "3829ED90-5258-4DDD-9D60-1B3B0FF41F5C"
     },
     {
       "class": "text",
@@ -161,48 +174,72 @@
       "id": "57EB0B74-13D1-4673-ADA8-F559D5228C50"
     },
     {
-      "class": "text",
-      "id": "CC6B2231-CF06-4A1F-A758-732E5B595960"
-    },
-    {
-      "class": "text",
-      "id": "0E754E53-BCBF-4481-AB6D-88DDE4AEDF1C"
-    },
-    {
-      "class": "text",
-      "id": "FABF4FF3-7D08-4FC4-B852-4CAFE91DF66F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B091FAA1-14A9-4860-8612-C578636496E6"
-    },
-    {
-      "class": "text",
-      "id": "C9558D7B-465C-496F-A565-1B1422C1CBFE"
-    },
-    {
-      "class": "text",
-      "id": "6FC1B35E-BBE9-47ED-98B8-D51E80CED1D1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9F542ABC-BB44-4CB8-9C99-293B57550BBD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "891B3168-34F0-4D03-9753-112F46D403E9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6708DD9C-E156-4E0C-B0F9-3D3AD5999F1B"
-    },
-    {
       "class": "shapeGroup",
       "id": "D85D7AFC-AB16-4DF7-8019-46FFDC779C69"
     },
     {
       "class": "shapeGroup",
       "id": "D23F6F65-ECE6-40D9-AB3C-1F8CA2EC43C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC1C14F6-DD9D-4E60-85A6-969FD1C40BD0"
+    },
+    {
+      "class": "text",
+      "id": "532DFD04-1683-4C06-921F-F63076F59B69"
+    },
+    {
+      "class": "text",
+      "id": "CA36FE5F-0FBA-46F5-9C33-2E5627B99326"
+    },
+    {
+      "class": "group",
+      "id": "D53D40E9-9626-4BAC-A3C2-C8F545FBC089"
+    },
+    {
+      "class": "text",
+      "id": "F3F126A4-8D91-4AB5-9032-DD4651479B82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20B7D99B-555E-46F3-8939-D453AF7FC587"
+    },
+    {
+      "class": "text",
+      "id": "35FCA930-7FBD-4159-B63D-E327A2C0DA5D"
+    },
+    {
+      "class": "text",
+      "id": "80B34EF9-C348-41E4-A04D-5B6801FE899D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95416B7E-AE64-4154-91BD-F060B447D136"
+    },
+    {
+      "class": "text",
+      "id": "EE762D60-16DD-44BE-9B24-53715501FF6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A55EB970-FA70-4BFF-A895-BAE437137815"
+    },
+    {
+      "class": "text",
+      "id": "B66B11C1-56A8-49C5-8A8E-3A399DFA9F71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D1B8046-EBEC-46B1-9A8C-83F2C6DED4F2"
+    },
+    {
+      "class": "text",
+      "id": "1B7143D0-4726-40ED-A661-9D640FD7A4AC"
+    },
+    {
+      "class": "group",
+      "id": "FE405FEA-F3BF-434C-BB73-1F5EDB7D2976"
     }
   ],
   "layout": {
@@ -221,7 +258,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Registro Participantes Copy",
+  "name": "Registro Participantes Fiscales",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

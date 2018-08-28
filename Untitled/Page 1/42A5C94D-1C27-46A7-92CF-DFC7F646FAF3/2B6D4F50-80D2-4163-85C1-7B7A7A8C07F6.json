@@ -8,15 +8,15 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4117647058823529,
-            "red": 0.396078431372549
+            "alpha": 0.546676856884058,
+            "blue": 0.396078431372549,
+            "green": 0.2549019607843137,
+            "red": 0.1137254901960784
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
+              "name": "OpenSans-SemiBold",
               "size": 16
             }
           },
@@ -25,15 +25,17 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 0.1000000014901161
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 68,
         "location": 0
       }
     ],
-    "string": "Juan Perez García"
+    "string": "Captura los datos del participante\ny presiona “Agregar participante”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +55,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4C61EEDC-4FD7-434C-B91D-FB996834A324",
-    "height": 22,
-    "width": 140,
-    "x": 753,
-    "y": 357
+    "height": 49,
+    "width": 262,
+    "x": 849,
+    "y": 552
   },
-  "glyphBounds": "{{-2, 4}, {141, 17}}",
+  "glyphBounds": "{{0, 5}, {261, 41}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Juan Perez García",
+  "name": "Captura los datos de",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,15 +86,15 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4117647058823529,
-          "red": 0.396078431372549
+          "alpha": 0.546676856884058,
+          "blue": 0.396078431372549,
+          "green": 0.2549019607843137,
+          "red": 0.1137254901960784
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
+            "name": "OpenSans-SemiBold",
             "size": 16
           }
         },
@@ -101,6 +103,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 0.1000000014901161
         },
         "textStyleVerticalAlignmentKey": 0

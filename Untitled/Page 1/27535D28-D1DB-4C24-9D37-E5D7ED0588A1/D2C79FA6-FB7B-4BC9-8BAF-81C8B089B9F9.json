@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D2C79FA6-FB7B-4BC9-8BAF-81C8B089B9F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1EC4184-B197-44B5-8F6B-8D71D651F34A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08A25D11-FE25-46EC-8307-25604A1CE57C",
+    "height": 24,
+    "width": 99,
+    "x": 519,
+    "y": 552
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/Card/Card-title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "415B02B9-3A15-483C-ABE5-C293DE1FA7A6",
+      "overrideName": "431EC6B4-312A-4812-B778-93144FD6EF6A_stringValue",
+      "value": "Contacto"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "A2DC76CF-6BD7-462D-BBE2-0F8EE750CA42",
+      "opacity": 0.5
+    },
+    "do_objectID": "5A0A74F7-1EA0-472D-AE65-162354C65801",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A847489-E1DA-4299-8047-1B20D99755D1",
+  "verticalSpacing": 0
+}

@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9647058823529412,
+    "green": 0.9568627450980393,
+    "red": 0.9372549019607843
   },
   "booleanOperation": -1,
   "do_objectID": "285DDBE0-5027-4040-8DF2-8926D9D2F7BC",
@@ -26,7 +26,13 @@
     "x": 265,
     "y": -155
   },
-  "hasBackgroundColor": false,
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -45,43 +51,42 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "D00419F2-CFB7-4F66-B621-A0F32C821A34"
+      "class": "symbolInstance",
+      "id": "27E030F1-F248-4764-82D0-47E11DE91377"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "476B8819-8D5A-49D5-BE32-272611A9A52B"
     },
     {
       "class": "group",
-      "id": "EC9824F8-008B-4A38-99DE-02D0184F96B8"
+      "id": "B3B0B3BF-67D6-402A-B693-BAAD8732964B"
     },
     {
-      "class": "text",
-      "id": "9FBA1C7E-43ED-4818-815D-946C84C0B643"
+      "class": "group",
+      "id": "1278232B-D971-4848-A2A2-DCB1DCCA5F61"
     },
     {
-      "class": "text",
-      "id": "97BA4C01-9AE2-4C95-8D29-3EA00BE7DF85"
-    },
-    {
-      "class": "text",
-      "id": "61979B45-D4D2-4F88-86AE-A496D7FA3C65"
-    },
-    {
-      "class": "text",
-      "id": "46A891A9-D6BA-4975-BF25-968AC4E34B8A"
-    },
-    {
-      "class": "text",
-      "id": "C6AC83EB-5155-48AE-9CBB-8D3F1747F5A6"
-    },
-    {
-      "class": "text",
-      "id": "159C2D50-4BAF-462B-A94D-39902D714625"
-    },
-    {
-      "class": "text",
-      "id": "431EC6B4-312A-4812-B778-93144FD6EF6A"
+      "class": "group",
+      "id": "3B84621B-A6E1-4211-88FD-ACC2AD3C2F7B"
     }
   ],
-  "name": "Registro/Login",
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Registro",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4666666666666667,
-            "green": 0.4117647058823529,
-            "red": 0.396078431372549
+            "blue": 0.5322066326530612,
+            "green": 0.4845591875185207,
+            "red": 0.4369117423839801
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,15 +25,17 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 0.1000000014901161
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Estado* "
+    "string": "Pais* "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +55,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "05024EB7-4C77-4B27-88BF-38A33BE5D7E0",
-    "height": 22,
-    "width": 64,
-    "x": 905,
-    "y": 523
+    "height": 24,
+    "width": 44,
+    "x": 784,
+    "y": 601
   },
-  "glyphBounds": "{{1, 4}, {58, 14}}",
+  "glyphBounds": "{{1, 5}, {38, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Estado*",
+  "name": "Pais*",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -85,9 +87,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4666666666666667,
-          "green": 0.4117647058823529,
-          "red": 0.396078431372549
+          "blue": 0.5322066326530612,
+          "green": 0.4845591875185207,
+          "red": 0.4369117423839801
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -101,6 +103,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 0.1000000014901161
         },
         "textStyleVerticalAlignmentKey": 0

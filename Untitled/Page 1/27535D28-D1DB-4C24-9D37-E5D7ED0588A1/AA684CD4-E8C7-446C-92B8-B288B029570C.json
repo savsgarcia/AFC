@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "AA684CD4-E8C7-446C-92B8-B288B029570C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B110E50-D474-4DD4-A5A1-622CBB6A1842",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51F213D2-9275-4F49-8608-A1330142D944",
+    "height": 24,
+    "width": 225,
+    "x": 769,
+    "y": 577
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/Card/Help",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A78F63EE-481C-46F8-A73A-9CDE8983A900",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "77A396CC-8B75-4580-AA9B-0EE728CBE4C6",
+  "verticalSpacing": 0
+}

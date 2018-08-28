@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "133899CD-D968-41B0-B6B7-B859289F6474",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A621D3DD-F22F-4D31-A763-744BCB09E478",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E15D12A9-4D5E-416D-9BE3-660B951400E4",
+    "height": 43,
+    "width": 280,
+    "x": 580,
+    "y": 240
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/MainTitle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "990B5D27-C511-4707-8D2F-4A167A76D526",
+      "overrideName": "9FBA1C7E-43ED-4818-815D-946C84C0B643_stringValue",
+      "value": "Registro"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1632D8A5-8F06-4AED-BA87-CBE82F5994D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D662D0FD-4B04-4B9F-B86D-07A708FF9769",
+  "verticalSpacing": 0
+}

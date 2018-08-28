@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
+    "height": 40,
     "width": 260,
     "x": 0,
     "y": 0
@@ -65,9 +65,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.342952806122449,
-          "green": 0.342952806122449,
-          "red": 0.342952806122449
+          "blue": 0.8312872023809523,
+          "green": 0.4890720830538425,
+          "red": 0.2033773791967762
         },
         "fillType": 0,
         "isEnabled": true,
